@@ -1,2 +1,2 @@
 # discordsnake
-snake written discord's api wrapper
+snake written in discord's api wrapper
